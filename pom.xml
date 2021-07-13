@@ -6,7 +6,11 @@
 
   <groupId>top.jiangyixin.apollo</groupId>
   <artifactId>apollo-sms</artifactId>
+  <packaging>pom</packaging>
   <version>1.0-SNAPSHOT</version>
+  <modules>
+    <module>apollo-sms-entity</module>
+  </modules>
 
 
 </project>
